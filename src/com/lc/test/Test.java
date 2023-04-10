@@ -14,5 +14,6 @@ public class Test {
     public void method01(){
         System.out.println("first update");
         System.out.println("github edit");
+        System.out.println("github edit second");
     }
 }
