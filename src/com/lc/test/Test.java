@@ -10,4 +10,8 @@ public class Test {
         System.out.println("hello gitHub");
         System.out.println("hello gitee");
     }
+
+    public void method01(){
+        System.out.println("first update");
+    }
 }
